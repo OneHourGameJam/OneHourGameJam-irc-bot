@@ -1,0 +1,18 @@
+{
+  "connection": {
+    "server": "irc.afternet.org",
+    "port": 6667,
+    "nick": "ohgj",
+    "channels": ["#paib"]
+  },
+
+  "botsettings": {
+    "command_prefix": "~",
+    "plugins_folder": "plugins",
+    "ignored": ["iosBot"]
+  },
+
+  "admin": {
+    "admins": ["liamlime", "LiamLime"]
+  }
+}

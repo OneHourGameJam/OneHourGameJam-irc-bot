@@ -1,0 +1,436 @@
+{
+    "idea-generator": {
+        "list1": [
+            "3D",
+            "First person",
+            "Third person",
+            "Single screen",
+            "2.5D",
+            "Isometric",
+            "Side view",
+            "Vector based",
+            "Top-down",
+            "Voxel based",
+            "Retro styled",
+            "Cel shaded",
+            "Monochromatic",
+            "Fast paced",
+            "Ultraviolent",
+            "Chaotic",
+            "Cutesy",
+            "Juicy",
+            "Cartoon styled",
+            "Atmospheric",
+            "Mysterious",
+            "Dark",
+            "Horror based",
+            "Fantasy based",
+            "Action based",
+            "Tactics based",
+            "Story driven",
+            "Procedurally generated",
+            "One button",
+            "Button mashing",
+            "Mouse controlled",
+            "Keyboard controlled",
+            "Huge",
+            "Tiny",
+            "Inverted",
+            "2D",
+            "Adorable",
+            "Glamorous",
+            "Magnificent",
+            "Silly",
+            "Deep",
+            "Shallow",
+            "Modern",
+            "Old-fashioned",
+            "Ad hoc",
+            "Idiotic",
+            "Filthy",
+            "Fierce",
+            "Gaudy",
+            "Frantic",
+            "Gruesome",
+            "Hypnotic",
+            "Humorous",
+            "Macho",
+            "Nostalgic",
+            "Messy",
+            "Tasteless",
+            "Tedious",
+            "Dystopian",
+            "Colourful",
+            "Vibrant",
+            "Minimalist",
+            "Surreal",
+            "Cyberpunk",
+            "Steampunk",
+            "Abstract",
+            "Romantic",
+            "Mindless",
+            "Complex",
+            "Controversial",
+            "Physics based",
+            "Post-apocalyptic",
+            "Time limited",
+            "Tile based",
+            "straight-edge"
+        ],
+        "list2": [
+            "platformer",
+            "maze game",
+            "artillery game",
+            "beat 'em up",
+            "fighting game",
+            "MMO",
+            "shooter",
+            "shoot 'em up",
+            "stealth game",
+            "graphic adventure",
+            "puzzle game",
+            "survival game",
+            "RPG",
+            "action game",
+            "strategy game",
+            "board game",
+            "arcade game",
+            "hack and slash game",
+            "multiplayer game",
+            "rail shooter",
+            "sandbox RPG",
+            "action RPG",
+            "tactical RPG",
+            "RTS game",
+            "farm simulator",
+            "tower defense",
+            "4X game",
+            "turn based game",
+            "sports game",
+            "card game",
+            "music game",
+            "party game",
+            "management sim",
+            "simulation",
+            "driving sim",
+            "tank game",
+            "art game",
+            "educational game",
+            "not-game",
+            "pong",
+            "quiz",
+            "point and click game",
+            "dungeon game",
+            "match 4 game",
+            "bullet hell game",
+            "pinball game",
+            "ball rolling game",
+            "metroidvania",
+            "roguelike",
+            "puzzle platformer",
+            "brown shooter",
+            "game",
+            "roguelike "
+        ],
+        "list3": [
+            "with a fixed camera",
+            "with much screen shake",
+            "with lots of particles",
+            "with emergent gameplay",
+            "with a quest system",
+            "with fireworks",
+            "with digitized sprites",
+            "with multiple endings",
+            "with a capture the flag mechanic",
+            "with colour coded armies",
+            "with a comeback mechanic",
+            "with checkpoints",
+            "with an inventory",
+            "with destructible terrain",
+            "with homing missiles",
+            "with an unexpected minigame",
+            "with pressure plates",
+            "with alchemy",
+            "with chain reactions",
+            "with evolution",
+            "with cutscenes",
+            "with a boss fight",
+            "with respawning mobs",
+            "with fire, ice and lightning",
+            "with spiders",
+            "with ghosts",
+            "with dinosaurs",
+            "with bats",
+            "with rats",
+            "with zombies",
+            "with pirates",
+            "with aliens",
+            "with nazis",
+            "with yetis",
+            "with clowns",
+            "with slime monsters",
+            "with wall monsters",
+            "with spikes",
+            "with pits",
+            "with traps",
+            "with weird gravity",
+            "with rock, paper, scissors",
+            "with a god mode",
+            "with multiple player characters",
+            "with discoverable secrets",
+            "with pets",
+            "with an antihero",
+            "where you play the villain",
+            "where you play a badass",
+            "where you play god",
+            "where you have to escape",
+            "where you have to rescue a loved one",
+            "where you only have one life",
+            "involving an examination",
+            "involving a love triangle",
+            "involving sibling rivalry",
+            "involving mass hysteria",
+            "involving conflicting loyalties",
+            "involving double think",
+            "involving good vs evil",
+            "involving a moral dilemma",
+            "involving betrayal",
+            "involving censorship",
+            "involving money",
+            "involving family",
+            "involving dreams",
+            "involving castles",
+            "involving clones",
+            "involving fruit",
+            "involving greed",
+            "involving gluttony",
+            "involving mutation",
+            "involving a deadly predator",
+            "involving a prodigal hero",
+            "involving a pygmalion plot",
+            "involving babies",
+            "involving YOU",
+            "involving amnesia",
+            "involving pacifism",
+            "involving a half truth",
+            "involving karma",
+            "involving luck",
+            "involving a wolf in sheep's clothing",
+            "involving culture clash",
+            "involving sympathy",
+            "involving an imaginary threat",
+            "involving dead people",
+            "involving a science experiment gone wrong",
+            "involving lost treasure",
+            "set on earth",
+            "taking place in on the moon",
+            "taking place in in outer space",
+            "taking place in on another world",
+            "set in the future",
+            "set in the past",
+            "set in a snow scene",
+            "set in the ocean",
+            "set in the mountains",
+            "set in the desert",
+            "set in the jungle",
+            "set in a cave",
+            "set in a graveyard",
+            "set in a city",
+            "set in suburbia",
+            "set in a secret military base",
+            "set in an underground lair",
+            "set in the woods",
+            "set on a ship",
+            "set in the sky",
+            "set in a microcosm",
+            "taking place in somebodies imagination",
+            "with jet packs",
+            "with lasers",
+            "with magnets",
+            "with stun guns",
+            "about a magical artefact",
+            "with a super soldier",
+            "with sound based weapons",
+            "without death",
+            "without guns",
+            "where the only weapon is TNT",
+            "with bubble guns",
+            "with extreme weather",
+            "involving a self-destruct button",
+            "involving a swiss army weapon",
+            "with achievements",
+            "with combos",
+            "with a countdown timer",
+            "with infinite gameplay",
+            "where all levels form one long corridor",
+            "set in a shakesperean play"
+        ],
+        "suggestions": {
+            "part1": [],
+            "part2": [],
+            "part3": []
+        }
+    },
+    "jokes": [
+        {
+            "joke": "use pie thong and eat that asm",
+            "submitter": "hdon-p"
+        },
+        {
+            "joke": "indie game developer: n. A sysadmin who takes half his pay in unfulfilled dreams",
+            "submitter": "hdon-p"
+        },
+        {
+            "joke": "A man walks into a bar.",
+            "submitter": "hdon-p"
+        },
+        {
+            "joke": "A guy goes to his doctor, says the doctor: \"Hey, I haven't seen you in a while!\". The guy replies: \"No, I was sick\".",
+            "submitter": "Tijn"
+        },
+        {
+            "joke": "(\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b",
+            "submitter": "g_12345"
+        },
+        {
+            "joke": "\"lol: 'Laugh out loud' - the thing nobody does when they say lol\"",
+            "submitter": "pta2002"
+        },
+        {
+            "joke": "your mom",
+            "submitter": "Jacob123"
+        },
+        {
+            "joke": "your penis ._.",
+            "submitter": "Jacob123"
+        },
+        {
+            "joke": "The joke is on you!",
+            "submitter": "ahimsa"
+        },
+        {
+            "joke": "making games for a living",
+            "submitter": "Tijn"
+        },
+        {
+            "joke": "your mother actually loves you",
+            "submitter": "Jacob123"
+        },
+        {
+            "joke": "\u00e4",
+            "submitter": "nander"
+        },
+        {
+            "joke": "$guess 125",
+            "submitter": "nander"
+        },
+        {
+            "joke": "rnlf is funny",
+            "submitter": "nander"
+        },
+        {
+            "joke": "Why was the horse sad? Because its wife has terminal cancer.",
+            "submitter": "Jacob123"
+        },
+        {
+            "joke": "the buddhist said to the hot dog man, can you make me one with everything?",
+            "submitter": "ReactorScram"
+        },
+        {
+            "joke": "If Apple made an iCar, it would have no Windows",
+            "submitter": "pta2002"
+        },
+        {
+            "joke": "If Apple made an iCar, it would have no Windows",
+            "submitter": "pta2002"
+        },
+        {
+            "joke": "My existence.",
+            "submitter": "xkaype"
+        },
+        {
+            "joke": "Why did Adele cross the road? To say Hello from the other side",
+            "submitter": "pta2002"
+        },
+        {
+            "joke": "ReactorScram",
+            "submitter": "ReactorScram"
+        },
+        {
+            "joke": "no.",
+            "submitter": "pta2002"
+        },
+        {
+            "joke": "your face.",
+            "submitter": "euske"
+        },
+        {
+            "joke": "\u0ca0_\u0ca0",
+            "submitter": "pta2002"
+        },
+        {
+            "joke": "The Aristocrats!",
+            "submitter": "ReactorScram"
+        },
+        {
+            "joke": "You know what I hate about booleans? They take up a bit of memory.",
+            "submitter": "pta2002"
+        },
+        {
+            "joke": "A man walks into a bar, and says \"ouch\".",
+            "submitter": "TimBeaudet"
+        },
+        {
+            "joke": "the themes",
+            "submitter": "tacospice"
+        },
+        {
+            "joke": "I went to the zoo yesterday and it only had 1 animal. It was a shih tzu",
+            "submitter": "AnsityGames"
+        },
+        {
+            "joke": "my life :(",
+            "submitter": "BearishMushroom"
+        },
+        {
+            "joke": "What's E.T. short for? Because he's only got little legs",
+            "submitter": "hippydave"
+        },
+        {
+            "joke": "what makes a good ludumdare game? Throughout the ages...",
+            "submitter": "Codex_"
+        },
+        {
+            "joke": "Why did the chicken cross the road? Because it's best friend was a frog",
+            "submitter": "junglecoder"
+        },
+        {
+            "joke": "Entire Game On One Screen",
+            "submitter": "Ajay"
+        },
+        {
+            "joke": "There's so much nudity on TV these days, it makes me so angry. I just sit there shaking my fist.",
+            "submitter": "AnsityGames"
+        },
+        {
+            "joke": "What's the worst part about spring? Being sued by The Fine Bros' for having an allergic reaction.",
+            "submitter": "AnsityGames"
+        },
+        {
+            "joke": "Wanna hear a flood joke? Wanna hear a flood joke? Wanna hear a flood joke? Wanna hear a flood joke?",
+            "submitter": "layl"
+        },
+        {
+            "joke": "why is a raven like a writing desk?",
+            "submitter": "MikeDX"
+        },
+        {
+            "joke": "LISP Dialects? What a racket!",
+            "submitter": "junglecoder"
+        },
+        {
+            "joke": "as well",
+            "submitter": "junglecoder"
+        }
+    ]
+}
