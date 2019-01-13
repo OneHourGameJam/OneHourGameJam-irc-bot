@@ -1,5 +1,7 @@
 # This repository is not maintained and will likely need some upfront work to get it to work with the one hour game jam site API.
 
+If applicable, please consider using the Discord Bot which is, as of this writing, maintained: https://github.com/OneHourGameJam/OneHourGameJam-discord-bot
+
 # PAIB
 PAIB is Pta's Amazing IRC Bot, although on #ludumdare it can also stand for Pta's Amazing Idea Bot (because that's what it's doing there ;))
 
